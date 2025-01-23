@@ -1,3 +1,12 @@
+Vídeo
+====
+
+Este directorio debe contener el archivo video.md con una URL a YouTube (debe ser pública o accesible mediante un enlace) que muestre el vehículo conduciendo de forma autónoma.
+
+La parte del vídeo donde se muestra la demostración de conducción debe tener una duración mínima de 30 segundos.
+
+---
+
 Video
 ====
 

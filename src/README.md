@@ -1,3 +1,12 @@
+Software de control
+====
+
+Este directorio debe contener el código del software de control que utiliza el vehículo para participar en la competencia y que fue desarrollado por los participantes.
+
+Todos los artefactos necesarios para resolver dependencias y crear el proyecto también deben incluirse en este directorio.
+
+---
+
 Control software
 ====
 

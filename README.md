@@ -1,3 +1,37 @@
+Materiales de ingeniería
+====
+
+Este repositorio contiene materiales de ingeniería de un modelo de vehículo autónomo que participa en la competición WRO Future Engineers en la temporada 2025.
+
+Este repositorio trata de ser una versión fiel, traducida al español de la plantilla generada por la [World Robot Olympiad](https://github.com/World-Robot-Olympiad-Association/wro2022-fe-template/), tenga en cuenta que para la competencia internacional el texto debe estar en ingles.
+
+<b>Recuerde que el repositorio debe ser público y siempre accesible.</b>
+
+## Contenido
+
+* `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
+* `v-photos` contiene 6 fotos del vehículo (de cada lado, de arriba a abajo)
+* `video` contiene el archivo video.md con el enlace a un vídeo en el que existe una demostración de conducción
+* `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+* `src` contiene el código del software de control de todos los componentes que se programaron para participar en la competición
+* `models` es para los archivos de los modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+* `other` es para otros archivos que se pueden usar para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+
+## Introducción
+
+_Esta parte debe ser completada por los participantes con las aclaraciones técnicas sobre el código: de qué módulos consta el código, cómo se relacionan con los componentes electromecánicos del vehículo y cuál es el proceso para construir/compilar/cargar el código a los controladores del vehículo._
+
+## Cómo preparar el repositorio en función de la plantilla
+
+_Elimine esta sección antes de la primera confirmación en el repositorio_
+
+1. Clone este repositorio utilizando la funcionalidad `git clone`.
+2. Elimine el directorio `.git`
+3. [Inicialice un nuevo repositorio público en GitHub](https://github.com/new) siguiendo las instrucciones de la sección "Crear un nuevo repositorio en la línea de comandos" (que aparece después de presionar el botón "Crear repositorio").
+
+
+---
+
 Engineering materials
 ====
 
